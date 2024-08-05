@@ -9,7 +9,6 @@ lastIndex = myList[-1]
 listLen = len(myList)
 # type of an list  
 listType = type(myList)
-print(listType)
 # list contructor 
 newList = list(('banana',False,6))
 # range of index

@@ -39,8 +39,10 @@ del oneValueTuple
 #LOOPING
 for i in thistuple:
     y.append(i)
+    
 for i in range(len(thistuple)):
     y.insert(i,thistuple[i])
+    
 while len(y)>0:
   y.pop()
   
