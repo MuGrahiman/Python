@@ -1,5 +1,5 @@
 #SET used to store multiple items in {}
-#Set items are unordered, unchangeable, and unindexed do not allow duplicates.
+#Set items are unordered(cannot access using index), unchangeable, and unindexed do not allow duplicates.
 
 #CREATING AN TUPLE
 conSet = set(('orange','long','live'))
