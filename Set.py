@@ -1,7 +1,7 @@
 #SET used to store multiple items in {}
 #Set items are unordered(cannot access using index), unchangeable, and unindexed do not allow duplicates.
 
-#CREATING AN TUPLE
+#CREATING AN SET
 conSet = set(('orange','long','live'))
 #*Note: The values (True and 1)&(False and 0) are considered as same value in sets, and are treated as duplicates:
 mySet = {'apple',1,True,False,0}#*it wil only add 'apple',1 & false .others treated as dupes
