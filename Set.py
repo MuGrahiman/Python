@@ -22,7 +22,7 @@ mySet.remove('NEW')
 mySet.discard('VALUE')#*if the item is not exit .discard do not raise any error
 #*Note: Sets are unordered, so you cant define the index.
 mySet.pop()
-del mySet
+del mySet #!cant delete an item by specifying
 
 # JOINING SETS
 newSet = {'long','live','hail','hitler'}
